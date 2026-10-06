@@ -1,0 +1,9 @@
+{
+  "name": "kas-kamu",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo static",
+    "dev": "npx serve public"
+  }
+}
